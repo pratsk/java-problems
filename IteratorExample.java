@@ -22,6 +22,7 @@ public class IteratorExample{
              
               previous = next;
             }
+             System.out.println(previous);
         }
     }
 }
